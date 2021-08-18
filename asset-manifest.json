@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "https://anmol53.github.io/csb-5r2p0/static/css/main.c1184278.chunk.css",
+    "main.js": "https://anmol53.github.io/csb-5r2p0/static/js/main.71c96e1d.chunk.js",
+    "main.js.map": "https://anmol53.github.io/csb-5r2p0/static/js/main.71c96e1d.chunk.js.map",
+    "runtime-main.js": "https://anmol53.github.io/csb-5r2p0/static/js/runtime-main.dbaa0b93.js",
+    "runtime-main.js.map": "https://anmol53.github.io/csb-5r2p0/static/js/runtime-main.dbaa0b93.js.map",
+    "static/js/2.302c16f0.chunk.js": "https://anmol53.github.io/csb-5r2p0/static/js/2.302c16f0.chunk.js",
+    "static/js/2.302c16f0.chunk.js.map": "https://anmol53.github.io/csb-5r2p0/static/js/2.302c16f0.chunk.js.map",
+    "index.html": "https://anmol53.github.io/csb-5r2p0/index.html",
+    "precache-manifest.43c13094fbb15356a95b1d8c7ad3f61f.js": "https://anmol53.github.io/csb-5r2p0/precache-manifest.43c13094fbb15356a95b1d8c7ad3f61f.js",
+    "service-worker.js": "https://anmol53.github.io/csb-5r2p0/service-worker.js",
+    "static/css/main.c1184278.chunk.css.map": "https://anmol53.github.io/csb-5r2p0/static/css/main.c1184278.chunk.css.map",
+    "static/js/2.302c16f0.chunk.js.LICENSE.txt": "https://anmol53.github.io/csb-5r2p0/static/js/2.302c16f0.chunk.js.LICENSE.txt",
+    "static/media/container.png": "https://anmol53.github.io/csb-5r2p0/static/media/container.f503adea.png",
+    "static/media/gridArea.png": "https://anmol53.github.io/csb-5r2p0/static/media/gridArea.89da1d4e.png",
+    "static/media/gridCell.png": "https://anmol53.github.io/csb-5r2p0/static/media/gridCell.49dd22a4.png",
+    "static/media/gridLine.png": "https://anmol53.github.io/csb-5r2p0/static/media/gridLine.dabb089f.png",
+    "static/media/gridTrack.png": "https://anmol53.github.io/csb-5r2p0/static/media/gridTrack.dd47aece.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.dbaa0b93.js",
+    "static/js/2.302c16f0.chunk.js",
+    "static/css/main.c1184278.chunk.css",
+    "static/js/main.71c96e1d.chunk.js"
+  ]
+}
